@@ -26,6 +26,8 @@ Assignment is to create simple Ethereum Dapp using `typescript` and `react.js` w
 To work with Weenus Token you will need contract jsonInterface, it's added to this repository as [./WeenusTokenABI.json](./WeenusTokenABI.json)
 Weenus Token contract address: `0x101848D5C5bBca18E6b4431eEdF6B95E9ADF82FA`
 
+! Weenus Token balance is shown with 18 decimals (1000000000000000000 returned from contract is equal 1 Weenus Token you would see in your metamask wallet)
+
 ## Help
 
 - [Documentation on how to interacting with Smart-Contracts using web3.js](https://web3js.readthedocs.io/en/v1.3.0/web3-eth-contract.html)
