@@ -6,7 +6,7 @@ Assignment is to create simple Ethereum Dapp using `typescript` and `react.js` w
 - Switch your MetaMask network from Ethereum Mainnet to `Ropsten Test Network`.
 - Retrieve some of rETH to your MetaMask address from [this faucet](https://faucet.dimensions.network).
 - Add/Start tracking `Weenus Token` in your MetaMask wallet. Weenus Token address is [0x101848D5C5bBca18E6b4431eEdF6B95E9ADF82FA](https://ropsten.etherscan.io/address/0x101848D5C5bBca18E6b4431eEdF6B95E9ADF82FA#code)
-- Read Help section if you havent worked with blockchain & ethereum before.
+- Read Help section if you havent worked with blockchain & ethereum before, try to deliver code even if it fails or is not finished.
 
 ### 2. Assignment
 
